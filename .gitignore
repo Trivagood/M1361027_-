@@ -1,0 +1,21 @@
+# 虛擬環境
+venv/
+env/
+.venv/
+
+# Python 快取
+__pycache__/
+#*.py[cod]
+
+# Jupyter Notebook 暫存
+.ipynb_checkpoints/
+
+# 機器學習模型與權重檔 (超過 100MB 不能上傳 GitHub)
+*.pt
+#*.pth
+*.onnx
+*.bin
+
+# 數據集與圖片資料夾 (請依你的實際資料夾名稱修改)
+dataset/
+# data/
