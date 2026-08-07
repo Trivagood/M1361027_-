@@ -1,4 +1,4 @@
-# cctv_collector.py
+# cctv_影像蒐集
 import pandas as pd
 import requests
 import os
