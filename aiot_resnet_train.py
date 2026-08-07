@@ -1,3 +1,4 @@
+#aiot_resnet_遷移學習
 import os
 import pandas as pd
 import torch
