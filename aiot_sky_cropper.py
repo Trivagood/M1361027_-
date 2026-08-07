@@ -1,4 +1,4 @@
-# aiot_center_cropper.py
+# aiot_中央裁切
 import os
 from PIL import Image, ImageFile, ImageOps
 from tqdm import tqdm
