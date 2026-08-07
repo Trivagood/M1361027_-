@@ -1,10 +1,11 @@
-# aiot_multimodal_aligner.py
+# aiot多模態資料對齊
 import pandas as pd
 import os
 import re
 from datetime import datetime, timedelta
 import pytz
 from pysolar.solar import get_altitude, get_azimuth
+
 
 # 路徑設定
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
