@@ -10,12 +10,12 @@ __pycache__/
 # Jupyter Notebook 暫存
 .ipynb_checkpoints/
 
-# 機器學習模型與權重檔 (超過 100MB 不能上傳 GitHub)
+# 機器學習模型與權重檔
 *.pt
 #*.pth
 *.onnx
 *.bin
 
-# 數據集與圖片資料夾 (請依你的實際資料夾名稱修改)
+# 數據集與圖片資料夾
 dataset/
 # data/
