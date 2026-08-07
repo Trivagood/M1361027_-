@@ -1,3 +1,4 @@
+#resnet_純視覺
 import os
 import pandas as pd
 import torch
