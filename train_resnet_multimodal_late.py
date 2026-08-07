@@ -1,4 +1,4 @@
-# train_resnet_multimodal.py
+# resnet_多模態晚期融合
 import os
 import pandas as pd
 import torch
