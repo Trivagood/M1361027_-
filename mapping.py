@@ -1,4 +1,4 @@
-# mapping.py
+#建立氣象站與 CCTV 座標對應
 import pandas as pd
 import math
 import os
