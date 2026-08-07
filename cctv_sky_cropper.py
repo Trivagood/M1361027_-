@@ -1,3 +1,4 @@
+#cctv_上半部裁切
 import os
 from PIL import Image, ImageFile, ImageOps
 from tqdm import tqdm
