@@ -1,4 +1,4 @@
-# data_aligner.py
+#多模態資料對齊
 import pandas as pd
 import os
 from datetime import datetime, timedelta
